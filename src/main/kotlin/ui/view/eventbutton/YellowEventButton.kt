@@ -1,4 +1,4 @@
-package ui.view.eventbuttons
+package ui.view.eventbutton
 
 import ui.model.TrafficLightColour
 import ui.event.TrafficLightEvent

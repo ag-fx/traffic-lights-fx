@@ -3,9 +3,9 @@ package ui.controller
 import tornadofx.Controller
 import ui.model.TrafficLightColour
 import ui.model.TrafficLightColour.*
-import ui.view.eventbuttons.GREEN_BUTTON_TEXT
-import ui.view.eventbuttons.RED_BUTTON_TEXT
-import ui.view.eventbuttons.YELLOW_BUTTON_TEXT
+import ui.view.eventbutton.GREEN_BUTTON_TEXT
+import ui.view.eventbutton.RED_BUTTON_TEXT
+import ui.view.eventbutton.YELLOW_BUTTON_TEXT
 
 const val RED_COLOUR_CODE = "#FF4C4C"
 const val YELLOW_COLOUR_CODE = "#FFFF00"

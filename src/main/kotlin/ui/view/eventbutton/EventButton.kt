@@ -1,4 +1,4 @@
-package ui.view.eventbuttons
+package ui.view.eventbutton
 
 import javafx.beans.property.SimpleStringProperty
 import tornadofx.View

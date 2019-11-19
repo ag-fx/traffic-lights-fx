@@ -5,9 +5,9 @@ import tornadofx.View
 import tornadofx.addClass
 import tornadofx.vbox
 import ui.Styles
-import ui.view.eventbuttons.GreenEventButton
-import ui.view.eventbuttons.YellowEventButton
-import ui.view.eventbuttons.RedEventButton
+import ui.view.eventbutton.GreenEventButton
+import ui.view.eventbutton.YellowEventButton
+import ui.view.eventbutton.RedEventButton
 
 class TrafficLightContainer : View() {
 
